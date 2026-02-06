@@ -6,7 +6,8 @@ Passionate about turning data into insights and building real-world projects.
 ---
 
 ## 🌐 Socials
-[Instagram](#) | [LinkedIn](#) | [Email](mailto:soujanyareddy9380@gmail.com)
+[Instagram]([![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_soujanya.reddy_/)
+) | [LinkedIn](https://www.linkedin.com/in/soujanya-reddy-15b7a1335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](mailto:soujanyareddy9380@gmail.com)
 
 ---
 
