@@ -34,6 +34,29 @@ Passionate about turning data into insights and building real-world projects.
 ## 🎯 Career Goal
 To secure an entry-level Data Analyst role where I can apply my analytical skills, work on real-world data, and grow in the field of data science.
 
+# 💼 Hospital OPD Patient Flow Dashboard (Python)
+
+## Description
+An interactive Python-based dashboard to analyze hospital OPD patient flow, waiting times, and departmental performance.  
+Helps hospitals identify bottlenecks, optimize resources, and improve patient experience.
+
+## Technologies
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+
+## Features
+- Patients Arrival per Hour
+- Average waiting time by Department
+- Waiting time Distribution
+- Doctor Workload
+- Patient Flow By Day
+- Average Waiting Time by Hour
+
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/YourUsername/Hospital-OPD-Dashboard.git
 
 
 
