@@ -37,15 +37,17 @@ To secure an entry-level Data Analyst role where I can apply my analytical skill
 
 ## 💼 Projects
 
-### Hospital OPD Dashboard (Python)
-**Description:** Interactive Python dashboard to analyze hospital OPD patient flow and waiting times. Helps hospitals track patient flow, visualize waiting times, and optimize resources.  
+## 💼 Projects
 
-**Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+1. **Hospital OPD Dashboard (Python)**  
+   **Description:** Interactive Python dashboard to analyze hospital OPD patient flow and waiting times. Helps hospitals track patient flow, visualize waiting times, and optimize resources.  
+   **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+   **Key Features:** Filter by department, visualize waiting time distributions, track patient flow.
 
-**Key Features:**  
-- Filter data by department  
-- Visualize waiting time distributions  
-- Track patient flow over time
+2. **Skill Insight Analysis (Naukri)**  
+   **Description:** Analyzed skills demand and trends from Naukri job portal to gain insights into in-demand skills across industries and roles. Helps job seekers and analysts understand the market trend.  
+   **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Excel  
+   **Key Features:** Extracted skill trends, visualized top skills, analyzed industry-wise demand, generated actionable insights.
 
 
 
