@@ -48,11 +48,6 @@ To secure an entry-level Data Analyst role where I can apply my analytical skill
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Key Features:**  
-- 🔹 Filter patient data by department  
-- 🔹 Visualize waiting time distributions  
-- 🔹 Track patient flow over time  
-- 🔹 Export insights as CSV/Excel
 
  ### 2️⃣ Skill Insight Analysis (Naukri)
 **Description:** Analyzed skills demand and trends from Naukri job portal to gain insights into in-demand skills across industries and roles. Helps job seekers and analysts understand the market trend.
@@ -63,11 +58,6 @@ To secure an entry-level Data Analyst role where I can apply my analytical skill
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Key Features:**  
-- 🔹 Extracted skill trends from Naukri using Python & SQL  
-- 🔹 Visualized top skills and industries  
-- 🔹 Identified high-demand skills for different roles  
-- 🔹 Generated actionable insights for job seekers
 
 
 
