@@ -37,17 +37,38 @@ To secure an entry-level Data Analyst role where I can apply my analytical skill
 
 ## 💼 Projects
 
-## 💼 Projects
+### 1️⃣ Hospital OPD Dashboard (Python)
+**Description:** Interactive Python dashboard to analyze hospital OPD patient flow and waiting times. Helps hospitals track patient flow, visualize waiting times, and optimize resources.
 
-1. **Hospital OPD Dashboard (Python)**  
-   **Description:** Interactive Python dashboard to analyze hospital OPD patient flow and waiting times. Helps hospitals track patient flow, visualize waiting times, and optimize resources.  
-   **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
-   **Key Features:** Filter by department, visualize waiting time distributions, track patient flow.
+**Technologies:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-2. **Skill Insight Analysis (Naukri)**  
-   **Description:** Analyzed skills demand and trends from Naukri job portal to gain insights into in-demand skills across industries and roles. Helps job seekers and analysts understand the market trend.  
-   **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Excel  
-   **Key Features:** Extracted skill trends, visualized top skills, analyzed industry-wise demand, generated actionable insights.
+**Key Features:**  
+- 🔹 Filter patient data by department  
+- 🔹 Visualize waiting time distributions  
+- 🔹 Track patient flow over time  
+- 🔹 Export insights as CSV/Excel
+
+ ### 2️⃣ Skill Insight Analysis (Naukri)
+**Description:** Analyzed skills demand and trends from Naukri job portal to gain insights into in-demand skills across industries and roles. Helps job seekers and analysts understand the market trend.
+
+**Technologies Used:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Key Features:**  
+- 🔹 Extracted skill trends from Naukri using Python & SQL  
+- 🔹 Visualized top skills and industries  
+- 🔹 Identified high-demand skills for different roles  
+- 🔹 Generated actionable insights for job seekers
+
 
 
 
