@@ -40,23 +40,14 @@ To secure an entry-level Data Analyst role where I can apply my analytical skill
 ### 1️⃣ Hospital OPD Dashboard (Python)
 **Description:** Interactive Python dashboard to analyze hospital OPD patient flow and waiting times. Helps hospitals track patient flow, visualize waiting times, and optimize resources.
 
-**Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+**Technologies:**  Python | Pandas | NumPy | Matplotlib | Seaborn | Streamlit  
+
 
 
  ### 2️⃣ Skill Insight Analysis (Naukri)
 **Description:** Analyzed skills demand and trends from Naukri job portal to gain insights into in-demand skills across industries and roles. Helps job seekers and analysts understand the market trend.
 
-**Technologies Used:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Technologies Used:**  Python | SQL | Excel | Power BI 
 
 
 
