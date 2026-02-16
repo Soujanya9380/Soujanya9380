@@ -28,6 +28,9 @@ Passionate about turning data into insights and building real-world projects.
 
 ## 📬 Contact
 📧 *Email:* soujanyareddy9380@gmail.com
+📞 *Phone:* +91 9380551659
+
+
 
 ---
 
